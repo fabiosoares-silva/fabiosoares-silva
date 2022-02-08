@@ -1,9 +1,10 @@
-### Oi, tudo bom? Eu sou o Fabio! 👋
+### Oi, tudo bom? Eu sou o Fabio Soares!👋 
 
 
-- 🔭 Atualmente estou em formação como Desenvolvedor Web front-end
+- 🔭 Sou um Desenvolvedor Web front-end em formação
 - 🌱 Estou estudando, HTML5, CSS3, JavaScript, Bootstrap, MIcrosoft SQL Server e Microsoft .NET Core
-
+- 📚 Gosto de ler bons livros e conhecer de tudo um pouco
+<br>
 
 <div>
    <a href="https://github.com/fabiosoares-silva">
@@ -18,4 +19,12 @@
   <img align "center" alt="Fabio-sql" heigth="30" width="40" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-1.png"/>
   <img align "center" alt="Fabio->NET Core" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align "center" alt="Fabio->Bootstrap" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />  
+</div>
+   
+   ##
+   <br>
+
+<div>   
+   <a href="www.linkedin.com/in/fabiosoaressilva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="mailto:fabiosores.soares@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
 </div>
