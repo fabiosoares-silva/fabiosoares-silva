@@ -13,12 +13,14 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align "center" alt="Fabio-html" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align "center" alt="Fabio-css3" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align "center" alt="Fabio-js" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align "center" alt="Fabio-sql" heigth="30" width="40" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-1.png"/>
-  <img align "center" alt="Fabio->NET Core" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img align "center" alt="Fabio->Bootstrap" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />  
+  <img align "center" alt="logo Git" heigth="30" width="40" src= "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+  <img align "center" alt="logo HTML" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align "center" alt="Logo CSS3" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align "center" alt="Logo JavaScript" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align "center" alt="Logo SQL-Server" heigth="30" width="40" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-1.png"/>
+  <img align "center" alt="Logo Bootstrap" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align "center" alt="Logo React" heigth="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
+  <img align "center" alt="Logo VTEX" heigth="30" width="40" src="https://cdn-images-1.medium.com/max/1200/1*RgOYx5H5LqkLWYRIh8Zb9w.png" />
 </div>
    
    ##
