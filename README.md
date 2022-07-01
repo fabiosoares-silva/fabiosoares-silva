@@ -20,7 +20,7 @@
   <img align "center" alt="Logo SQL-Server" heigth="30" width="40" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-1.png"/>
   <img align "center" alt="Logo Bootstrap" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align "center" alt="Logo React" heigth="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
-  <img align "center" alt="Logo VTEX" heigth="30" width="40" src="https://cdn-images-1.medium.com/max/1200/1*RgOYx5H5LqkLWYRIh8Zb9w.png" />
+  <img align "center" alt="Logo VTEX" heigth="30" width="40" src="https://raw.githubusercontent.com/guibranco/VTEX-SDK-dotnet/master/packageLogo.png" />
 </div>
    
    ##
