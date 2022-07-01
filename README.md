@@ -2,8 +2,8 @@
 
 
 - 🔭 Sou um Desenvolvedor Web front-end em formação
-- 🌱 Estou estudando, HTML5, CSS3, JavaScript, Bootstrap, MIcrosoft SQL Server e Microsoft .NET Core
-- 📚 Gosto de ler bons livros e conhecer de tudo um pouco
+- 🌱 HTML5, CSS3, JavaScript, Bootstrap, MIcrosoft SQL Server, Git, React, VTEX IO
+- 📚 Gosto de ler, tenho gosto por filosofia e artes em geral. 
 <br>
 
 <div>
