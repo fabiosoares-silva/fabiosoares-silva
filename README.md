@@ -1,4 +1,4 @@
-### Oi, tudo bom? Eu sou o Fabio Soares!👋 
+### Oi, tudo bom? Me chamo Fabio👋 
 
 
 - 🔭 Sou um Desenvolvedor Web front-end em formação
