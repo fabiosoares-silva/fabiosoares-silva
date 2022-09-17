@@ -2,7 +2,7 @@
 
 
 - 🔭 Sou um Desenvolvedor Web front-end em formação
-- 🌱 HTML5, CSS3, JavaScript, Bootstrap, MIcrosoft SQL Server, Git, React, VTEX IO
+- 🌱 HTML5, CSS3, JavaScript, Bootstrap, MIcrosoft SQL Server, Git, React
 - 📚 Gosto de ler, tenho gosto por tecnologia, filosofia e artes em geral. 
 <br>
 
@@ -19,7 +19,7 @@
   <img align "center" alt="Logo SQL-Server" heigth="30" width="40" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-1.png"/>
   <img align "center" alt="Logo Bootstrap" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align "center" alt="Logo React" heigth="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
-   <img align "center" alt="Logo VTEX" heigth="40" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/VTEX_Logo.svg/1280px-VTEX_Logo.svg.png"/>
+   
    
 </div>
   
