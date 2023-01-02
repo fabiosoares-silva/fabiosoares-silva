@@ -1,9 +1,9 @@
-### Oi, tudo bom? Me chamo Fabio👋 
+### Olá! Tudo bom?👋 
 
 
-- 🔭 Sou um Desenvolvedor Web front-end em formação
+- 🔭 Desenvolvedor Web em formação
 - 🌱 HTML5, CSS3, JavaScript, Bootstrap, MIcrosoft SQL Server, Git, React
-- 📚 Gosto de ler, tenho gosto por tecnologia, filosofia e artes em geral. 
+
 <br>
 
 <div>
@@ -19,6 +19,10 @@
   <img align "center" alt="Logo SQL-Server" heigth="30" width="40" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-1.png"/>
   <img align "center" alt="Logo Bootstrap" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align "center" alt="Logo React" heigth="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
+  <img align "center" alt="Logo React" heigth="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png"/>
+  <img align "center" alt="Logo React" heigth="30" width="40" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png"/>
+  <img align "center" alt="Logo React" heigth="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png"/>
+  
    
    
 </div>
