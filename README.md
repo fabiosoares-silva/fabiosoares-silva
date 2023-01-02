@@ -2,7 +2,7 @@
 
 
 - 🔭 Desenvolvedor Web em formação
-- 🌱 HTML5, CSS3, JavaScript, Bootstrap, MIcrosoft SQL Server, Git, React
+- 🌱 HTML5, CSS3, JavaScript, React, Bootstrap, MIcrosoft SQL Server, .NET, C#, Wordpress 
 
 <br>
 
