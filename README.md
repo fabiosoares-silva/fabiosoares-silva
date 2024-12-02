@@ -1,8 +1,4 @@
-### Olá! Tudo bom?👋 
-
-
-- 🔭 Desenvolvedor Web em formação
-- 🌱 HTML5, CSS3, JavaScript, React, Bootstrap, MIcrosoft SQL Server, .NET, C#, Wordpress 
+Desenvolvedor Backend | .NET C# | ASP.NET core | JavaScript | TypeScript | Git | 
 
 <br>
 
@@ -12,18 +8,15 @@
    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosoares-silva&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-<div style="display: inline_block"><br>                                 
+<div style="display: inline_block"><br>  
+  <img align "center" alt="Logo React" heigth="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png"/>
+  <img align "center" alt="Logo React" heigth="30" width="40" src="https://icons-for-free.com/iff/png/512/csharp+plain-1324760527445397616.png"/> 
+  <img align "center" alt="Logo React" heigth="30" width="40" src="https://ih1.redbubble.net/image.366684642.5673/st,small,507x507-pad,600x600,f8f8f8.u2.jpg"/>   
   <img align "center" alt="logo HTML" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align "center" alt="Logo CSS3" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align "center" alt="Logo JavaScript" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align "center" alt="Logo SQL-Server" heigth="30" width="40" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-1.png"/>
-  <img align "center" alt="Logo Bootstrap" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align "center" alt="Logo React" heigth="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
-  <img align "center" alt="Logo React" heigth="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png"/>
-  <img align "center" alt="Logo React" heigth="30" width="40" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png"/>
-  <img align "center" alt="Logo React" heigth="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png"/>
-  
-   
+  <img align "center" alt="Logo SQL-Server" heigth="30" width="40" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/typescript-def.png"/>
+  <img align "center" alt="Logo Bootstrap" heigth="30" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
    
 </div>
   
@@ -31,6 +24,6 @@
    <br>
 
 <div>   
-   <a href="https://www.linkedin.com/in/fabiosoaressilva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/fabiosoares-web-developer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="mailto:fabiosores.soares@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
 </div>
