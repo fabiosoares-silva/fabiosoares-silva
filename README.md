@@ -1,4 +1,7 @@
-Desenvolvedor Backend | .NET C# | ASP.NET core | JavaScript | TypeScript | Git | 
+<div> 
+   <h1>Desenvolvedor Backend</h1>
+   <h2>| .NET C# | ASP.NET core | JavaScript | TypeScript | Git |<h2/>
+<div/>
 
 <br>
 
@@ -9,14 +12,14 @@ Desenvolvedor Backend | .NET C# | ASP.NET core | JavaScript | TypeScript | Git |
 </div>
 
 <div style="display: inline_block"><br>  
-  <img align "center" alt="Logo React" heigth="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png"/>
-  <img align "center" alt="Logo React" heigth="30" width="40" src="https://icons-for-free.com/iff/png/512/csharp+plain-1324760527445397616.png"/> 
-  <img align "center" alt="Logo React" heigth="30" width="40" src="https://ih1.redbubble.net/image.366684642.5673/st,small,507x507-pad,600x600,f8f8f8.u2.jpg"/>   
-  <img align "center" alt="logo HTML" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align "center" alt="Logo CSS3" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align "center" alt="Logo JavaScript" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align "center" alt="Logo SQL-Server" heigth="30" width="40" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/typescript-def.png"/>
-  <img align "center" alt="Logo Bootstrap" heigth="30" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+  <img align "center" alt="Logo .NET" heigth="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png"/>
+  <img align "center" alt="Logo C#" heigth="40" width="50" src="https://icons-for-free.com/iff/png/512/csharp+plain-1324760527445397616.png"/> 
+  <img align "center" alt="Logo ASP NET Core" heigth="40" width="50" src="https://ih1.redbubble.net/image.366684642.5673/st,small,507x507-pad,600x600,f8f8f8.u2.jpg"/>   
+  <img align "center" alt="logo HTML" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align "center" alt="Logo CSS3" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align "center" alt="Logo JavaScript" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align "center" alt="Logo Tyoescript" heigth="40" width="50" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/typescript-def.png"/>
+  <img align "center" alt="Logo Git" heigth="40" width="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
    
 </div>
   
