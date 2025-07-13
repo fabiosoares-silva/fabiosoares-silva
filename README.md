@@ -1,5 +1,5 @@
 <div> 
-   <h1>Desenvolvedor Backend</h1>
+   <h1>Software Developer</h1>
    <h2>| .NET C# | ASP.NET core | JavaScript | TypeScript | Git |<h2/>
 <div/>
 
