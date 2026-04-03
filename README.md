@@ -18,10 +18,10 @@
 </ul>  
 </div>
 <br>
-<div>
+<div>  
   <a href="https://github.com/fabiosoares-silva">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiosoares-silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosoares-silva&layout=compact&langs_count=16&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fabiosoares-silva&show_icons=true&theme=tokyonight&include_allcommits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fabiosoares-silva&theme=tokyonight"/>
   </a>
 </div>
 
