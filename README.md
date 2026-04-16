@@ -25,15 +25,14 @@
   </a>
 </div>
 
-<div style="display: inline_block"><br>  
-  <img align "center" alt="Logo .NET" heigth="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png"/>
-  <img align "center" alt="Logo C#" heigth="40" width="50" src="https://icons-for-free.com/iff/png/512/csharp+plain-1324760527445397616.png"/> 
-  <img align "center" alt="Logo ASP NET Core" heigth="40" width="50" src="https://ih1.redbubble.net/image.366684642.5673/st,small,507x507-pad,600x600,f8f8f8.u2.jpg"/>
-  <img align "center" alt="Logo SQL Server" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
-  <img align "center" alt="Logo Git" heigth="40" width="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-   
+<div style="display: inline-block">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Logo .NET" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Logo C#" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Logo ASP.NET Core" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Logo SQL Server" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Logo Git" />
 </div>
-  
+
    <br>
    <br>
 
